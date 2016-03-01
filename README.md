@@ -29,3 +29,6 @@ Clone 받은 소스를 실행하기 전에 `/grails-app/conf/Config.sample.groov
   * [OS X 에서 OKKY 개발 시작하기](BUILDING_OSX.md)
 
 git 문구 추가 테스트 
+sdfsdf
+sfasdfasdfasd
+
